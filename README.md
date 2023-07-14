@@ -3,7 +3,7 @@ This is my Personal Portfolio Website built using HTML, CSS & JavaScript.
 This website is completely responsive and live at Netlify (GitHub-Apps).
 Check out my portfolio!!! 
 
-[Click Here](https://debajyoti2001-portfolio-github.netlify.app/)
+[Click Here](https://debajyoti2001-portfolio-github-dt.netlify.app/)
 
 Screenshots:
 
