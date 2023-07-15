@@ -1,9 +1,9 @@
 # portfolio.github.io
 This is my Personal Portfolio Website built using HTML, CSS & JavaScript.
-This website is completely responsive and live at Netlify (GitHub-Apps).
+This website is completely responsive and live at GitHub-Pages.
 Check out my portfolio!!! 
 
-[Click Here](https://debajyoti2001-portfolio-github-dt.netlify.app/)
+[Click Here](https://debajyotitalukder2001.github.io/portfolio.github.io/)
 
 Screenshots:
 
