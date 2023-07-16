@@ -21,3 +21,9 @@ Screenshots:
 
 
 ![Screenshot (936)](https://github.com/DebajyotiTalukder2001/portfolio.github.io/assets/136104351/02d39e3d-8ece-4dfa-839b-267d8c343f34)
+
+![Screenshot (1058)](https://github.com/DebajyotiTalukder2001/portfolio.github.io/assets/136104351/4337eb75-cb3c-46fe-94ed-d447541e1464)
+
+![Screenshot (1059)](https://github.com/DebajyotiTalukder2001/portfolio.github.io/assets/136104351/c94faf48-9d30-47a9-8356-bced3cf9d04a)
+
+
