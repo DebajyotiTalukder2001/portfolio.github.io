@@ -34,8 +34,8 @@ section{
     padding: 100px 0;
 }
 .max-width{
-    max-width: 1300px;
-    padding: 0 80px;
+    max-width: 1500px;
+    padding: 0 60px;
     margin: auto;
 }
 .about, .services, .skills, .teams, .contact, footer{
@@ -116,7 +116,7 @@ section .title::after{
 .navbar .menu li{
     list-style: none;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 40px;
     
 }
 .navbar .menu{
@@ -127,9 +127,9 @@ section .title::after{
 .navbar .menu li a{
     display: block;
     color: #fff;
-    font-size: 18px;
-    font-weight: 500;
-    margin-left: 25px;
+    font-size: 20px;
+    font-weight: 550;
+    margin-left: 35px;
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
