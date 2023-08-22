@@ -16,7 +16,7 @@ Screenshots:
 ![Screenshot (935)](https://github.com/DebajyotiTalukder2001/portfolio.github.io/assets/136104351/35650ce8-bcac-4f64-b676-ac9b477f3390)
 
 
-![Screenshot (934)](https://github.com/DebajyotiTalukder2001/portfolio.github.io/assets/136104351/932914f3-ff35-4709-b2c5-9cbdc23d57a0)
+![Screenshot (1337)](https://github.com/DebajyotiTalukder2001/portfolio.github.io/assets/136104351/54d08100-fec1-4ece-b75d-5c2e212e3c39)
 
 
 
