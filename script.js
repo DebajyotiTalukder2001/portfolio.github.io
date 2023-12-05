@@ -40,7 +40,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Full-Stack Developer","Web Developer" ,"Python Developer", "Java Developer", "Software Developer", "Programmer"],
+        strings: ["Full-Stack Developer","Web Developer" ,"Python Developer", "Software Developer", "Programmer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
@@ -53,7 +53,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Full-Stack Developer","Web Developer" ,"Python Developer", "Java Developer", "Software Developer", "Programmer"],
+        strings: ["Full-Stack Developer","Web Developer" ,"Python Developer", "Software Developer", "Programmer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
