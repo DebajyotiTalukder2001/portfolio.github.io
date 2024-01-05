@@ -5,7 +5,7 @@ Check out my portfolio!!!
 
 [Click Here](https://debajyotitalukder2001.github.io/portfolio.github.io/)
 
-Screenshots:
+<h2>Screenshots:</h2>
 
 
 ![Screenshot (930)](https://github.com/DebajyotiTalukder2001/portfolio.github.io/assets/136104351/05c2d1e4-7786-4c7e-b5e5-eb14bdf94d96)
