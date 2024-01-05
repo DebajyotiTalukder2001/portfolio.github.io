@@ -10,18 +10,17 @@ Screenshots:
 
 ![Screenshot (930)](https://github.com/DebajyotiTalukder2001/portfolio.github.io/assets/136104351/05c2d1e4-7786-4c7e-b5e5-eb14bdf94d96)
 
-![Screenshot (933)](https://github.com/DebajyotiTalukder2001/portfolio.github.io/assets/136104351/b3a33a87-4469-46a8-88e8-e8f8986145d6)
 
+
+![Screenshot (1791)](https://github.com/DebajyotiTalukder2001/portfolio.github.io/assets/136104351/a60e60ac-88cd-4382-9cf0-61ef371ee70c)
 
 
 ![Screenshot (1690)](https://github.com/DebajyotiTalukder2001/portfolio.github.io/assets/136104351/a540f18b-d8e2-4c14-9e72-1fc474ae2cf4)
 
-
-![Screenshot (1337)](https://github.com/DebajyotiTalukder2001/portfolio.github.io/assets/136104351/54d08100-fec1-4ece-b75d-5c2e212e3c39)
-
+![Screenshot (1793)](https://github.com/DebajyotiTalukder2001/portfolio.github.io/assets/136104351/b188e2c7-39fd-48e3-8171-16cb6f5b8f64)
 
 
-![Screenshot (936)](https://github.com/DebajyotiTalukder2001/portfolio.github.io/assets/136104351/02d39e3d-8ece-4dfa-839b-267d8c343f34)
+![Screenshot (1792)](https://github.com/DebajyotiTalukder2001/portfolio.github.io/assets/136104351/c0a2ea03-7bbc-4458-9296-5b4a13cd193d)
 
 ![Screenshot (1058)](https://github.com/DebajyotiTalukder2001/portfolio.github.io/assets/136104351/4337eb75-cb3c-46fe-94ed-d447541e1464)
 
